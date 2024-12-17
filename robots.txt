@@ -1,0 +1,4 @@
+Sitemap: https://maaha-dev6.online/sitemap.xml
+
+User-agent: *
+Disallow:
